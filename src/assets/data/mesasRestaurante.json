@@ -1,0 +1,38 @@
+[
+  {
+    "ID_mesa": "M_1",
+    "numeroMesa": 1,
+    "unidadesPersonas": [1, 2],
+    "imgM": "src/assets/img/mesas/mesaIndividual_1.jpg"
+  },
+  {
+    "ID_mesa": "M_2",
+    "numeroMesa": 2,
+    "unidadesPersonas": [1, 2],
+    "imgM": "src/assets/img/mesas/mesaIndividual_2.jpg"
+  },
+  {
+    "ID_mesa": "M_3",
+    "numeroMesa": 3,
+    "unidadesPersonas": [3, 4],
+    "imgM": "src/assets/img/mesas/mesaNormal_1.jpg"
+  },
+  {
+    "ID_mesa": "M_4",
+    "numeroMesa": 4,
+    "unidadesPersonas": [3, 4],
+    "imgM": "src/assets/img/mesas/mesaNormal_2.jpg"
+  },
+  {
+    "ID_mesa": "M_5",
+    "numeroMesa": 5,
+    "unidadesPersonas": [5, 6],
+    "imgM": "src/assets/img/mesas/mesaGrande_1.jpg"
+  },
+  {
+    "ID_mesa": "M_6",
+    "numeroMesa": 6,
+    "unidadesPersonas": [5, 6],
+    "imgM": "src/assets/img/mesas/mesaGrande_2.jpg"
+  }
+]
